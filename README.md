@@ -1,6 +1,6 @@
 # CMMI2017_PETCT_3D_ALPHA_MATTING
 
-This repository contains the code (in TensorFlow) for "[3D Alpha Matting Based Co-segmentation of Tumors on PET-CT Images](https://link.springer.com/chapter/10.1007/978-3-319-67564-0_4)" paper (CMMI 2017). 
+This repository contains the code (in MATLAB) for "[3D Alpha Matting Based Co-segmentation of Tumors on PET-CT Images](https://link.springer.com/chapter/10.1007/978-3-319-67564-0_4)" paper (CMMI 2017). 
 
 ## Citation
 
