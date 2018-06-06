@@ -9,23 +9,23 @@ If you find this useful, please cite our work as follows:
 ```
 @InProceedings{zszhong2017_3dmatting,
   author="Zhong, Zisha
-  and Kim, Yusung
-  and Buatti, John
-  and Wu, Xiaodong",
+    and Kim, Yusung
+    and Buatti, John
+    and Wu, Xiaodong",
   editor="Cardoso, M. Jorge
-  and Arbel, Tal
-  and Gao, Fei
-  and Kainz, Bernhard
-  and van Walsum, Theo
-  and Shi, Kuangyu
-  and Bhatia, Kanwal K.
-  and Peter, Roman
-  and Vercauteren, Tom
-  and Reyes, Mauricio
-  and Dalca, Adrian
-  and Wiest, Roland
-  and Niessen, Wiro
-  and Emmer, Bart J.",
+    and Arbel, Tal
+    and Gao, Fei
+    and Kainz, Bernhard
+    and van Walsum, Theo
+    and Shi, Kuangyu
+    and Bhatia, Kanwal K.
+    and Peter, Roman
+    and Vercauteren, Tom
+    and Reyes, Mauricio
+    and Dalca, Adrian
+    and Wiest, Roland
+    and Niessen, Wiro
+    and Emmer, Bart J.",
   title="3D Alpha Matting Based Co-segmentation of Tumors on PET-CT Images",
   booktitle="Molecular Imaging, Reconstruction and Analysis of Moving Body Organs, and Stroke Imaging and Treatment",
   year="2017",
